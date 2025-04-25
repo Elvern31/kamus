@@ -46,4 +46,4 @@ async def tebak_sampah(ctx):
     else:
         await ctx.send(f"Salah! Jawabannya adalah: {jenis_sampah.upper()}")
 
-bot.run(MTM1NzY5ODgzOTYwNzUxMzIxOA.GWA6VK.Gi6i5GiT-tWaJqmkr-OSbC10qXLgBZ-B1aHpLY)
+bot.run(code)
